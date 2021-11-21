@@ -1,0 +1,10 @@
+about	179585
+all	211838
+also	136177
+but	212770
+from	363855
+like	125084
+more	183569
+one	168399
+other	124292
+out	137068
